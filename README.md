@@ -22,9 +22,9 @@ Studying Computer Science and Engineering At Bangladesh University of Business a
 
 #### Bio
 
-- ⚙️ I use daily: `Dart`, `Python`, `C++`
+- ⚙️ I use daily: `html`, `css`, `js`
 - 💬 Ping me about **Django**, **Python**, **RestAPIs**,
-- 📫 Reach me: <a href="https://www.linkedin.com/in/partho-debnath-b8632a201"> Linkedin </a> 
+- 📫 Reach me: <a href=https://www.linkedin.com/in/md-ariful-islam-8533a0246> Linkedin </a> 
 
 #### Language and Tools
 <img height="45"  src="img/c.svg" alt="C"> <img height="48" src="img/c++.svg" alt="C++"> <img height="48" src="img/python-original.svg" alt="python"> <img height="48"  src="img/java.svg" alt="Java"><img height="50" src="img/django.svg" alt="Django"> <img height="48" src="img/linux-original.svg" alt="linux"> <img height="48" src="img/git-original.svg" alt="git"> <img height="48" src="img/mysql.svg" alt="MySql"> <img height="48" src="img/postman.svg" alt="Postman">
