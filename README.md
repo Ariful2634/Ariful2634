@@ -46,10 +46,7 @@ Studying Computer Science and Engineering At Bangladesh University of Business a
 
 
 #### Recent Activity
-- [File SharingBD ▶️](https://filesharingbd.pythonanywhere.com/) 
-- [Online Gadget Store](https://github.com/Binary-Soft/Online-Gadget-Store-.git)
-- [Django Channels/Websocket](https://github.com/pd28CSE/djangoChannelsWebsocket2)
-- [Flutter Online Book Order](https://github.com/pd28CSE/flutter-online-book-shop)
+- [Personal Website ▶️] https://ariful2634.github.io/web.portfolio/
 
 #### Working On
 
