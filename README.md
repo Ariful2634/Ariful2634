@@ -52,16 +52,16 @@ Studying Computer Science and Engineering At Bangladesh University of Business a
 - [Flutter Online Book Order](https://github.com/pd28CSE/flutter-online-book-shop)
 
 #### Working On
-- [YouTube Clone](https://github.com/pd28CSE/YouTube)
+
 
 
 #### Connect With Me
 
 <p left="center">
-<a href="https://www.linkedin.com/in/partho-debnath-b8632a201">
+<a href="https://www.linkedin.com/in/md-ariful-islam-8533a0246/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
 </a> 
-<a href="mailto:parthodebnath28@gmail.com">
+<a href="mailto:ariful2634@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
 </a>
 </p>
