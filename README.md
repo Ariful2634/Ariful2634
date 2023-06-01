@@ -27,16 +27,16 @@ Studying Computer Science and Engineering At Bangladesh University of Business a
 - 📫 Reach me: <a href=https://www.linkedin.com/in/md-ariful-islam-8533a0246> Linkedin </a> 
 
 #### Language and Tools
-<img height="45"  src="img/c.svg" alt="C"> <img height="48" src="img/c++.svg" alt="C++"> <img height="48" src="img/python-original.svg" alt="python"> <img height="48"  src="img/java.svg" alt="Java"><img height="50" src="img/django.svg" alt="Django"> <img height="48" src="img/linux-original.svg" alt="linux"> <img height="48" src="img/git-original.svg" alt="git"> <img height="48" src="img/mysql.svg" alt="MySql"> <img height="48" src="img/postman.svg" alt="Postman">
+<img height="45"  src="img/c#.svg" alt="C#"> <img height="48" src="img/c++.svg" alt="C++"> <img height="48" src="img/python-original.svg" alt="python"> <img height="48"  src="img/javascript.svg" alt="Javascript"><img height="50" src="img/django.svg" alt="Django"> <img height="48" src="img/linux-original.svg" alt="linux"> <img height="48" src="img/git-original.svg" alt="git"> <img height="48" src="img/mysql.svg" alt="MySql">
 
 #### Development Stuffs:
 
 <b>⚡ Github Stats</b>
 <p float="left">
-<img height="190em" src="https://github-readme-stats.vercel.app/api?username=pd28CSE&show_icons=true&hide_border=true&count_private=true&"/> 
-<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pd28CSE&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<img height="190em" src="https://github-readme-stats.vercel.app/api?username=Ariful2634&show_icons=true&hide_border=true&count_private=true&"/> 
+<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ariful2634&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 
-![Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=pd28CSE&theme=react-dark)
+![Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ariful2634&theme=react-dark)
 </p>
 
 
