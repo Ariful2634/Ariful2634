@@ -47,6 +47,7 @@ Studying Computer Science and Engineering At Bangladesh University of Business a
 
 #### Recent Activity
 - [Panda-commerce] https://ariful2634.github.io/panda-commerce/
+- [Hot Gadget] https://ariful2634.github.io/hot-gadget/
 - [Personal Website] https://ariful2634.github.io/web.portfolio/
 
 
