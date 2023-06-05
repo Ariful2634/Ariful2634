@@ -23,7 +23,7 @@ Studying Computer Science and Engineering At Bangladesh University of Business a
 #### Bio
 
 - ⚙️ I use daily: `html`, `css`, `js`
-- 💬 Ping me about **Django**, **Python**, **RestAPIs**,
+- 💬 Ping me about **React**, **js**, **RestAPIs**,
 - 📫 Reach me: <a href=https://www.linkedin.com/in/md-ariful-islam-8533a0246> Linkedin </a> 
 
 #### Language and Tools
