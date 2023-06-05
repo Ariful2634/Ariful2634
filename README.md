@@ -27,7 +27,7 @@ Studying Computer Science and Engineering At Bangladesh University of Business a
 - 📫 Reach me: <a href=https://www.linkedin.com/in/md-ariful-islam-8533a0246> Linkedin </a> 
 
 #### Language and Tools
-<img height="45"  src="img/c#.svg" alt="C#"> <img height="48" src="img/c++.svg" alt="C++"> <img height="48" src="img/python-original.svg" alt="python"> <img height="48"  src="img/javascript.svg" alt="Javascript"><img height="50" src="img/django.svg" alt="Django"> <img height="48" src="img/linux-original.svg" alt="linux"> <img height="48" src="img/git-original.svg" alt="git"> <img height="48" src="img/mysql.svg" alt="MySql">
+<img height="45"  src="img/cSharp.svg" alt="C#"> <img height="48" src="img/c++.svg" alt="C++"> <img height="48" src="img/python-original.svg" alt="python"> <img height="48"  src="img/javascript.svg" alt="Javascript"> <img height="48" src="img/linux-original.svg" alt="linux"> <img height="48" src="img/git-original.svg" alt="git"> <img height="48" src="img/mysql.svg" alt="MySql">
 
 #### Development Stuffs:
 
