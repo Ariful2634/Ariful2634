@@ -36,9 +36,10 @@ Studying Computer Science and Engineering At Bangladesh University of Business a
 <img height="190em" src="https://github-readme-stats.vercel.app/api?username=Ariful2634&show_icons=true&hide_border=true&count_private=true&"/> 
 <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ariful2634&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ariful2634&&theme=tokyonight" alt="Ariful2634"/>
 ![Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ariful2634&theme=react-dark)
+[![Check out pd28CSE's profile on stardev.io](https://stardev.io/developers/Ariful2634/badge/languages/global.svg)](https://stardev.io/developers/Ariful2634)
 </p>
-
 
 
 <!-- <b>&#128200; Competitive Programming</b>
