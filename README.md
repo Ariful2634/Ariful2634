@@ -17,7 +17,7 @@ Studying Computer Science and Engineering At Bangladesh University of Business a
 
 #### Now Learning
 
-- `Web Development`,
+- `Web Development`
 
 
 #### Bio
