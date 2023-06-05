@@ -24,7 +24,8 @@ Studying Computer Science and Engineering At Bangladesh University of Business a
 
 - ⚙️ I use daily: `html`, `css`, `js`
 - 💬 Ping me about **React**, **js**, **RestAPIs**,
-- 📫 Reach me: <a href=https://www.linkedin.com/in/md-ariful-islam-8533a0246> Linkedin </a> 
+- 📫 Reach me: <a href="https://www.linkedin.com/in/md-ariful-islam-8533a0246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ariful2634" height="30" width="40" /></a> <a href="https://m.me/arifulislam.ariful.37" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Ariful2634" height="30" width="40" /></a>
+
 
 #### Language and Tools
 <img height="45"  src="img/cSharp.svg" alt="C#"> <img height="48" src="img/c++.svg" alt="C++"> <img height="48" src="img/python-original.svg" alt="python"> <img height="48"  src="img/javascript.svg" alt="Javascript"> <img height="48" src="img/linux-original.svg" alt="linux"> <img height="48" src="img/git-original.svg" alt="git"> <img height="48" src="img/mysql.svg" alt="MySql">
