@@ -67,7 +67,7 @@ Studying Computer Science and Engineering At Bangladesh University of Business a
 
 #### Recent Activity
 - <a target="_blank" href="https://ariful2634.github.io/fruit-burst/">Fruit Burst</a>
-- <a target="_blank" href="https://ariful2634.github.io/hot-gadget/">Hot Gadget</a>
+- <a target="_blank" href=" https://ariful2634.github.io/legal-solution/">Legal Solution</a>
 - <a target="_blank" href="https://ariful2634.github.io/web.portfolio/">Personal Website</a>
 
 
