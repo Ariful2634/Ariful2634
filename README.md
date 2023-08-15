@@ -17,6 +17,7 @@ Studying Computer Science and Engineering At Bangladesh University of Business a
 
 #### Now Learning
 
+
 - `Web Development`
 
 
@@ -32,6 +33,7 @@ Studying Computer Science and Engineering At Bangladesh University of Business a
 
 #### Connect With Me
 
+
 <p left="center">
  <a href="https://www.facebook.com/arifulislam.ariful.37" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Ariful2634" height="30" width="40" /></a> <a href="https://www.linkedin.com/in/md-ariful-islam-8533a0246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ariful2634" height="30" width="40" /></a> 
  </p>
@@ -45,15 +47,19 @@ Studying Computer Science and Engineering At Bangladesh University of Business a
 #### Development Stuffs:
 
 <b>⚡ Github Stats</b>
-<p float="left">
-<img height="190em" src="https://github-readme-stats.vercel.app/api?username=Ariful2634&show_icons=true&hide_border=true&count_private=true&"/> 
-<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ariful2634&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 
+  <p float="left">
+ <!-- most used language -->
+  <img  height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ariful2634&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&langs_count=8" alt="Md. Ariful Islam's most used language"/>
+    <!-- GitHub status bar -->
+  <img  height="190em" src="https://github-readme-stats.vercel.app/api?username=Ariful2634&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&" alt="Md. Ariful Islam's GitHub status bar"/> 
+  <!-- current streak -->
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ariful2634&&theme=tokyonight" alt="Ariful2634"/>
   
 ![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ariful2634&theme=react-dark)
   
 [![Check out Ariful2634's profile on stardev.io](https://stardev.io/developers/Ariful2634/badge/languages/global.svg)](https://stardev.io/developers/Ariful2634)
+
   
  ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Ariful2634&theme=radical&no-frame=false&no-bg=true&margin-w=4)
