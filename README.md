@@ -66,12 +66,11 @@
   
 ![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ariful2634&theme=react-dark)
   
-[![Check out Ariful2634's profile on stardev.io](https://stardev.io/developers/Ariful2634/badge/languages/global.svg)](https://stardev.io/developers/Ariful2634)
 
 </div>
   
- ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ariful2634&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+
   
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
