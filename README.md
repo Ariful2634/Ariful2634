@@ -62,8 +62,7 @@
     <!-- GitHub status bar -->
   <img  height="190em" src="https://github-readme-stats.vercel.app/api?username=Ariful2634&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&" alt="Md. Ariful Islam's GitHub status bar"/> 
   <!-- current streak -->
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ariful2634&&theme=tokyonight" alt="Ariful2634"/>
-  
+
 ![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ariful2634&theme=react-dark)
   
 
@@ -81,7 +80,6 @@
 
 
 ## Recent Activity
-- <a target="_blank" href="https://ariful2634.github.io/phone-hunter/">Phone Hunter</a>
 - <a target="_blank" href="https://ariful2634.github.io/phone-hunter/">Phone Hunter</a>
 - <a target="_blank" href="https://ariful2634.github.io/bank-mirpur/">Bank</a>
 - <a target="_blank" href="https://ariful2634.github.io/digital-tasbih/">Digital Tasbih</a>
