@@ -48,7 +48,8 @@
 ## Language and Tools
  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">  </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <a href="https://www.figma.com/" target="_blank" rel="noreferrer">  <img height="45"  src="img/cSharp.svg" alt="C#"> <img height="48" src="img/c++.svg" alt="C++"> <img height="48" src="img/python-original.svg" alt="python">  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <img height="48" src="img/linux-original.svg" alt="linux"> <img height="48" src="img/git-original.svg" alt="git"> <img height="48" src="img/mysql.svg" alt="MySql">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <a href="https://www.figma.com/" target="_blank" rel="noreferrer">  <img height="45"  src="img/cSharp.svg" alt="C#"> <img height="48" src="img/c++.svg" alt="C++"> <img height="48" src="img/python-original.svg" alt="python">  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <img height="48" src="img/linux-original.svg" alt="linux"> <img height="48" src="img/git-original.svg" alt="git"> <img height="48" src="img/mysql.svg" alt="MySql"> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="visual Studio code"
+      width="40" height="40" /> </a> 
 
 
 ## Development Stuffs:
@@ -62,7 +63,8 @@
     <!-- GitHub status bar -->
   <img  height="190em" src="https://github-readme-stats.vercel.app/api?username=Ariful2634&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&" alt="Md. Ariful Islam's GitHub status bar"/> 
   <!-- current streak -->
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ariful2634&theme=blueberry&text_color=D3D3D3&bg_color=0,000000,130F40&date_format=M%20j%5B%2C%20Y%5D" alt="Md. Ariful Islam's stats" /></p>
+  
 ![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ariful2634&theme=react-dark)
   
 
