@@ -71,7 +71,7 @@
 
 </div>
   
-
+[![An image of @ariful's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ariful)](https://holopin.io/@ariful)
 
   
 </p>
