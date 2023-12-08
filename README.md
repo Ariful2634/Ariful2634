@@ -64,7 +64,13 @@
     <!-- GitHub status bar -->
   <img  height="190em" src="https://github-readme-stats.vercel.app/api?username=Ariful2634&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&" alt="Md. Ariful Islam's GitHub status bar"/> 
   <!-- current streak -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ariful2634&theme=blueberry&text_color=D3D3D3&bg_color=0,000000,130F40&date_format=M%20j%5B%2C%20Y%5D" alt="Md. Ariful Islam's stats" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ariful2634&theme=radical&border=7F3FBF&background=0D1117" alt="Md. Ariful Islam's stats" /></p>
+
+<p align="center">
+  <a href="https://github.com/Rony-Ahmed6245">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ariful2634&theme=radical" alt="Al Siam's GitHub Contribution"/>
+  </a>
+</p>
   
 ![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ariful2634&theme=react-dark)
   
