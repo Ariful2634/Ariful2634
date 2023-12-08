@@ -21,7 +21,6 @@
 <br>
 
 - A passionate Web developer
-- Currently doing Web Development with [Programming Hero](https://web.programming-hero.com/home/) 
 - Trying to learn something new everyday.
 - ⚙️ I use daily: `html`, `css`, `js`
 - 💬 Ping me about **React**, **js**, **RestAPIs**
