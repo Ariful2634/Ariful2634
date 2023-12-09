@@ -22,14 +22,8 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 <br>
+  I'm a committed web developer who loves creating fluid and eye-catching user interfaces. Proficient in HTML, CSS, JavaScript, and React, and my area of expertise is turning design    thoughts into dynamic, responsive websites. devoted to keeping up with developments in the field.
 
-- A passionate Web developer
-- Trying to learn something new everyday.
-- ⚙️ I use daily: `reactjs`, `tailwind css`, `js`
-- 💬 Ping me about **React**, **js**, **RestAPIs**
-- 📫 Reach me: <a href="mailto:ariful2634@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
-</a>
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -43,7 +37,9 @@
 
 
 <p left="center">
- <a href="https://www.facebook.com/arifulislam.ariful.37" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Ariful2634" height="30" width="40" /></a> <a href="https://www.linkedin.com/in/md-ariful-islam-8533a0246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ariful2634" height="30" width="40" /></a>
+ <a href="https://www.facebook.com/arifulislam.ariful.37" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Ariful2634" height="30" width="40" /></a> <a href="https://www.linkedin.com/in/md-ariful-islam-8533a0246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ariful2634" height="30" width="40" /></a> <a href="mailto:ariful2634@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
+</a>
   
  </p>
 
