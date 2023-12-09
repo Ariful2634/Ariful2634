@@ -25,7 +25,7 @@
 
 - A passionate Web developer
 - Trying to learn something new everyday.
-- ⚙️ I use daily: `html`, `css`, `js`
+- ⚙️ I use daily: `reactjs`, `tailwind css`, `js`
 - 💬 Ping me about **React**, **js**, **RestAPIs**
 - 📫 Reach me: <a href="mailto:ariful2634@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
@@ -103,7 +103,7 @@
 
 
 
-#### Working On
+
 
 
 
