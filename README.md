@@ -90,7 +90,6 @@
 
 ## Recent Activity
 - <a target="_blank" href="https://tech-hub-c2612.web.app/">The Tech Hub</a>
-- <a target="_blank" href="https://tech-hub-c2612.web.app/">The Tech Hub</a>
 - <a target="_blank" href="https://hotel-booking-management-928e5.web.app/">Book My Hotel</a>
 - <a target="_blank" href="https://tech-shop-5a579.web.app/">Tech Shop</a>
 - <a target="_blank" href="https://sports-event-management-e7602.web.app/">Football club Event Management</a>
