@@ -97,7 +97,7 @@
 - <a target="_blank" href="https://lighthearted-beignet-c9c7d1.netlify.app/">Course Registration</a>
 - <a target="_blank" href="https://ariful2634.github.io/phone-hunter/">Phone Hunter</a>
 - <a target="_blank" href="https://dapper-buttercream-bda082.netlify.app/">PHero Tube</a>
-- <a target="_blank" href="https://ariful2634.github.io/bank-mirpur/">Bank</a>
+
 
 
 
