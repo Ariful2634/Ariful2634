@@ -97,10 +97,4 @@
 - <a target="_blank" href="https://lighthearted-beignet-c9c7d1.netlify.app/">Course Registration</a>
 - <a target="_blank" href="https://ariful2634.github.io/phone-hunter/">Phone Hunter</a>
 
-
-
-
-
-
-
 </p>
